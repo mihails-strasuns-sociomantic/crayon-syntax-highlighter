@@ -1,0 +1,11 @@
+volatile
+const
+immutable
+shared
+shared
+pure
+scope
+ref
+lazy
+nothrow
+static
